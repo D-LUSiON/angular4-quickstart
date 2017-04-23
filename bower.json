@@ -1,0 +1,18 @@
+{
+    "name": "angular4-quickstart",
+    "description": "Angular 4 quickstart blank project",
+    "main": "",
+    "authors": [
+        "D-LUSiON <l.peikov@gmail.com>"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "directory" : "./assets"
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
