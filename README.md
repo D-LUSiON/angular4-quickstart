@@ -10,10 +10,11 @@ This Angular 4 quickstart project is based on the original quickstart project fr
  
 ### Download this repository
 
-You can download it in .zip format or via command line:
+You can download it in .zip format or via command line - start terminal window, navigate to a folder of your choice where you want your project to be and type:
 
-cd <your project directory>
-git clone https://github.com/D-LUSiON/angular-4-quickstart.git
+git clone https://github.com/D-LUSiON/angular-4-quickstart.git angular4
+
+This is going to create an "angular4" folder in the folder you've navigated to and in this folder you'll find the main files of the project.
 
 ### Install instructions
 
