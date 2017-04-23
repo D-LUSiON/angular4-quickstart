@@ -2,7 +2,7 @@
 
 ### Changes from the original
 
-This Angular 4 quickstart project is based on the original quickstart project from https://angular.io/ The changes are that the directory structure is different.
+This Angular 4 quickstart project is based on the original quickstart project from [Angular Repository](https://github.com/angular/quickstart.git). The changes are that the directory structure is different.
  - All files from "src" folder are refactored to the root folder;
  - The "main.js" is moved to the "app" folder;
  - The TypeScript transpiler now puts the .js and .map files in "app/js";
@@ -12,7 +12,7 @@ This Angular 4 quickstart project is based on the original quickstart project fr
 
 You can download it in .zip format or via command line - start terminal window, navigate to a folder of your choice where you want your project to be and type:
 
-git clone https://github.com/D-LUSiON/angular-4-quickstart.git angular4
+`git clone https://github.com/D-LUSiON/angular-4-quickstart.git angular4`
 
 This is going to create an "angular4" folder in the folder you've navigated to and in this folder you'll find the main files of the project.
 
@@ -26,13 +26,13 @@ https://nodejs.org/en/download/
 
 To install all required NodeJS and Angular4 modules, start a terminal window, navigate to your projct directory (where you've cloned this project) and type:
 
-npm install
+`npm install`
 
 ### Start the project
 
 After you've installed all dependancies run this command:
 
-npm start
+`npm start`
 
 ### More information
 
