@@ -7,6 +7,11 @@ This Angular 4 quickstart project is based on the original quickstart project fr
  - The "main.js" is moved to the "app" folder;
  - The TypeScript transpiler now puts the .js and .map files in "app/js";
  - The .ts files are in "app/ts";
+ - Created file organization in folders - directives are in the "_directives" folder, services are in "_services" folder and etc.
+ - Root "css" and "js" folders are moved to "assets" folder
+ - Created "app/html" folder to put your HTML templates there
+ - "app.component" (the root component of the project) is renamed to "root.component"
+ - Added example nested component
  
 ### Download this repository
 

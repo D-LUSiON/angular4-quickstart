@@ -1,3 +1,5 @@
 /nbproject/
 /node_modules/
 /.editorconfig
+/app/js/
+/npm-debug.log
